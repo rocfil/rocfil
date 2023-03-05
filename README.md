@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Front-end Development
-- 🌱 Currently learning React.js framework
+- 🌱 Now learning React.js framework and object oriented programming with Java
 - 📫 Mail me: castrorogeriobr@gmail.com
 - ⚡ Programming 👨‍💻 and gaming 🎮 for life!
 
