@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on Front-end Development
 - 🌱 Now learning React.js
 - 📫 Mail me: castrorogeriobr@gmail.com
-- ⚡ Programming 👨‍💻 and gaming 🎮 for life!
 
 <div>
 <a href="https://github.com/rocfil">
