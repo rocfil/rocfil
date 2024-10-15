@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Front-end Development
-- 🌱 Now learning React.js
-- 📫 Mail me: castrorogeriobr@gmail.com
+- 🔭 I’m currently working on Cybersecurity specialization.
+- 🌱 Programming with React.js and Javascript.
+- 📫 Mail me: castrorogeriobr@gmail.com.
 
 <div>
 <a href="https://github.com/rocfil">
