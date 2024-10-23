@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Cybersecurity specialization.
-- 🌱 Programming with React.js and Javascript.
+- 🌱 Programming with React.js as Javascript is my main language.
 - 📫 Mail me: castrorogeriobr@gmail.com.
 
 <div>
