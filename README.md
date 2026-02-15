@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Cybersecurity specialization.
-- 🌱 Programming with React.js and Javascript.
-- 📫 Contact: castrorogeriobr@gmail.com.
+- 🔭 Cybersecurity Specialist Technician.
+- 🌱 Experienced with React.js and Javascript.
+- ⚛️ Student of Computer Science - Bachelor's Degree.
 
 <div>
 <a href="https://github.com/rocfil">
