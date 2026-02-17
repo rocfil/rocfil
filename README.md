@@ -1,9 +1,9 @@
-### Greetings!
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2479ba65-4287-421f-9843-0b2aa969057c" />### Greetings!
 
 
 
 - 🔭 Cybersecurity Specialist Technician.
-- 🌱 Experienced with React.js and Javascript.
+- 🌱 Experienced with React.js and Javascript for Web Development.
 - ⚛️ Student of Computer Science - Bachelor's Degree.
 
 <div>
@@ -11,6 +11,7 @@
 <div><br>
 <img align="center" alt="rocfil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="rocfil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 </div>
 
 ##
