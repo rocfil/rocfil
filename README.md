@@ -3,7 +3,7 @@
 
 
 - 🔭 Cybersecurity Specialist Technician.
-- 🌱 Experienced with React.js and Javascript for Web Development.
+- 🌱 24/7 Programmer.
 - ⚛️ Student of Computer Science - Bachelor's Degree.
 
 <div>
