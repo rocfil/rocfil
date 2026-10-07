@@ -3,7 +3,7 @@
 
 
 - 🔭 Cybersecurity Specialist Technician.
-- 🌱 24/7 Programmer.
+- 🌱 Current role: Support Analyst.
 - ⚛️ Student of Computer Science - Bachelor's Degree.
 
 <div>
